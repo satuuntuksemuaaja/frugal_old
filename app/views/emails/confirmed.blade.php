@@ -1,0 +1,1 @@
+Thank you for confirming your Frugal Kitchens Schedule! If you have any questions or concerns, please contact our office at 770.460.4331

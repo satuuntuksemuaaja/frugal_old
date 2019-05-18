@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-timepicker",
+  "description": "Timepicker widget for Twitter Bootstrap 3.x",
+  "version": "0.3.0",
+  "homepage": "http://nholling.github.com/bootstrap-3-timepicker",
+  "author": {
+    "name": "Nate Hollingsworth",
+    "email": "nate@nexia.ca"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nholling/bootstrap-3-timepicker"
+  },
+  "scripts": {
+    "test": "bower install; grunt test;"
+  },
+  "bugs": {
+    "url": "https://github.com/nholling/bootstrap-3-timepicker/issues"
+  },
+  "devDependencies": {
+    "grunt-cli": "~0.1",
+    "grunt": "~0.4.1",
+    "bower": "latest",
+    "grunt-contrib-less": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jasmine": "~0.5.1",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-shell": "~0.2.2",
+    "grunt-bump": "~0.0.14"
+  }
+}

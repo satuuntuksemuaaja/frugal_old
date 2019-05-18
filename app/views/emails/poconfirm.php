@@ -1,0 +1,1 @@
+Make sure you click "confirm" once a purchase order has been confirmed.
